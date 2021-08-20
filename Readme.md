@@ -8,7 +8,7 @@ W przypadku pytań na kategorię A:
 - 114 pytań w opinii zespołu nie nadawało się do wykorzystania. 
 - do bazy dodano 218 nowych pytań tak, aby maksymalnie wypełnić zalecenia HAREC.
 
-Zbiór pytań na kategorię C stanowi podzbiór zagadnień objętych pytaniami na kategorię A gdzie dopsowano piziom trudności pytań d owymagań kategorii C 
+Zbiór pytań na kategorię C stanowi podzbiór zagadnień objętych pytaniami na kategorię A gdzie dopsowano poziom trudności pytań do wymagań kategorii C 
 
 Pytania najwygodniej przeglądać poprzez stronę pod adresem: https://hackerspacekrk.github.io/pytania-egzaminacyjne/
 
